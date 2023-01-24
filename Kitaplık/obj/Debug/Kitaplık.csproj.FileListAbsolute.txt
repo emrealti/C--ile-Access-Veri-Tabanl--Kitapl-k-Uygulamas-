@@ -1,0 +1,11 @@
+C:\Users\emre\Desktop\c# eğitim\Kitaplık\bin\Debug\Kitaplık.exe.config
+C:\Users\emre\Desktop\c# eğitim\Kitaplık\bin\Debug\Kitaplık.exe
+C:\Users\emre\Desktop\c# eğitim\Kitaplık\bin\Debug\Kitaplık.pdb
+C:\Users\emre\Desktop\c# eğitim\Kitaplık\obj\Debug\Kitaplık.csproj.AssemblyReference.cache
+C:\Users\emre\Desktop\c# eğitim\Kitaplık\obj\Debug\Kitaplık.csproj.SuggestedBindingRedirects.cache
+C:\Users\emre\Desktop\c# eğitim\Kitaplık\obj\Debug\Kitaplık.Form1.resources
+C:\Users\emre\Desktop\c# eğitim\Kitaplık\obj\Debug\Kitaplık.Properties.Resources.resources
+C:\Users\emre\Desktop\c# eğitim\Kitaplık\obj\Debug\Kitaplık.csproj.GenerateResource.cache
+C:\Users\emre\Desktop\c# eğitim\Kitaplık\obj\Debug\Kitaplık.csproj.CoreCompileInputs.cache
+C:\Users\emre\Desktop\c# eğitim\Kitaplık\obj\Debug\Kitaplık.exe
+C:\Users\emre\Desktop\c# eğitim\Kitaplık\obj\Debug\Kitaplık.pdb
